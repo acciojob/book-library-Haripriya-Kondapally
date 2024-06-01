@@ -6,14 +6,14 @@
 	background-color:#ffffff;
 	
 }
-#h3{
+p{
 	color:#777777;
-	padding:0px;
+	padding:10px;
 	margin:0px;
 }
 #btn{
-	width:500px;
-	height:20px;
+	width:400px;
+	height:10px;
 	background-color:#2ecc71;
 	padding:20px;
 	margin:20px;
@@ -27,12 +27,18 @@
 	height:500px;
 	margin:20px;
 	border:1px solid white;
-	background-color:whitesmoke;
+	
 }
 h2{
-	padding:0px;
+	padding:10px;
 	margin:0px;
 }
 h1{
 	text-align:center;
+}
+img{
+	
+	margin-left:auto;
+	margin-right:auto;
+	display:block;
 }
